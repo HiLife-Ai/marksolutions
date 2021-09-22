@@ -1,0 +1,7 @@
+.review_card .review_content ul li a.btn_delete {
+  background-color: #e04040 !important;
+  color: #fff !important;
+}
+.review_card .review_content ul li a.btn_delete:hover {
+  background-color: #b41a1a !important;
+}
